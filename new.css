@@ -1,0 +1,124 @@
+.header{
+  background-image: url(images/banner/banner3.png);
+height: 808px;
+ width: 1600px; 
+}
+/* main text  */
+.main-section p{
+  position: absolute;
+ 
+  width: 494px;
+height: 78px;
+left: 876px;
+top: 468px;
+  
+  color: #ffffff;
+  
+}
+.main-section h1{
+  font-weight: 700;
+  font-size: 50px;
+  position: absolute;
+  color: #ffffff;
+  width: 525px;
+height: 228px;
+left: 845px;
+top: 216px;
+}
+.article{
+  text-align:right;
+  padding-right: 10px;
+
+}
+.btn-contact{
+  position: absolute;
+width: 160px;
+height: 64px;
+left: 1210px;
+top: 578px;
+color: #0D8AF5;
+}
+/* image-text */
+.image-text{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 100px;
+}
+.m-image{
+  margin-left: 90px;
+}
+.m-text{
+  width: 425px;
+  height: 600px;
+  margin-top: 200px;
+  margin-right: 90px;
+}
+
+/* plan  */
+.plan{
+  text-align: center;
+}
+.n-plan {
+  display: flex;
+  justify-content: space-around;
+ margin-left: 100px;
+ margin-top: 30px;
+}
+.n-plan p, h4{
+  text-align: center;
+}
+/* gradiant image */
+.gradian{
+  background-image: url(images/gradient1.png);
+  width: 1130px;
+height: 300px;
+margin-left: 200px;
+margin-top: 90px;
+border-radius: 8px;
+
+}
+.gradian h1{
+  padding: 70px 730px 0px 30px;
+  color: #ffffff;
+}
+.call{
+  width: 160px;
+height: 64px;
+font-size: 22px;
+color: #0D8AF5;
+margin-left: 30px;
+}
+/* footer */
+.footer{
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  width: 1600px; ;
+  margin-top: 90px;
+  padding-top: 90px;
+}
+.footer h1,p, h4{
+  
+  color: #ffffff;
+}
+.future{
+  width: 485px;
+height: 317px;
+left: 230px;
+top: 2781.96px;
+margin-left: 200px;
+
+}
+.subscribe{
+  margin-right: 200px;
+}
+.subscribe h4{
+  text-align: left;
+}
+.sub-btn{
+  margin-top: 20px;
+  border-radius: 8px;
+  background-color: #0D8AF5;
+  color: #ffffff;
+  padding: 10px;
+}
